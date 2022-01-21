@@ -1,0 +1,13 @@
+{
+    "name": "Harvey",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Harvey",
+        "/category/asset_value_tracking/core-token/symbol": "HARV",
+        "/category/asset_value_tracking/core-token/decimals": "6",
+        "/category/asset_value_tracking/core-token/supply": "100"
+    }
+}
